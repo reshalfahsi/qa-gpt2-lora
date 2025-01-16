@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <a href="https://colab.research.google.com/github/reshalfahsi/qa-gpt2-lora/blob/master/Question_Answering_GPT-2_PEFT_LoRA.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
+    <a href="https://colab.research.google.com/github/reshalfahsi/qa-gpt2-lora/blob/master/Question_Answering_GPT_2_PEFT_LoRA.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
     <br />
 </div>
 
@@ -12,7 +12,7 @@ Having constrained resources, the most rational way to fine-tune the language mo
 
 ## Experiment
 
-Go to this [notebook](https://github.com/reshalfahsi/qa-gpt2-lora/blob/master/Question_Answering_GPT-2_PEFT_LoRA.ipynb) for the inquiry.
+Go to this [notebook](https://github.com/reshalfahsi/qa-gpt2-lora/blob/master/Question_Answering_GPT_2_PEFT_LoRA.ipynb) for the inquiry.
 
 
 ## Result
