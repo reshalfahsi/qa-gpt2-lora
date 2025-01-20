@@ -23,7 +23,7 @@ We can measure the model performance using BLEU 1-gram.
 
 Test Metric | Score  |
 ----------- | -----  |
-BLEU 1-gram | 13.89% |
+BLEU 1-gram | 16.67% |
 
 
 ## Qualitative Result
